@@ -1,0 +1,9 @@
+@page
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+
+<p>Hello World!</p>
+
+<p>@DateTime.Now</p>
+
+<h4>@Configuration["Message"]</h4>
