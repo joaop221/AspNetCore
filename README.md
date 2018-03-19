@@ -1,2 +1,2 @@
 # AspNetCore
-A Sam[[
+A little sample of asp.net core applications
